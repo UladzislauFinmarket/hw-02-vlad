@@ -1,0 +1,15 @@
+C:\Users\Uladzislau.Shpartou\Documents\GitHub\hw-02-vlad\bin\Debug\net7.0\hw-02-vlad.exe
+C:\Users\Uladzislau.Shpartou\Documents\GitHub\hw-02-vlad\bin\Debug\net7.0\hw-02-vlad.deps.json
+C:\Users\Uladzislau.Shpartou\Documents\GitHub\hw-02-vlad\bin\Debug\net7.0\hw-02-vlad.runtimeconfig.json
+C:\Users\Uladzislau.Shpartou\Documents\GitHub\hw-02-vlad\bin\Debug\net7.0\hw-02-vlad.dll
+C:\Users\Uladzislau.Shpartou\Documents\GitHub\hw-02-vlad\bin\Debug\net7.0\hw-02-vlad.pdb
+C:\Users\Uladzislau.Shpartou\Documents\GitHub\hw-02-vlad\obj\Debug\net7.0\hw-02-vlad.csproj.AssemblyReference.cache
+C:\Users\Uladzislau.Shpartou\Documents\GitHub\hw-02-vlad\obj\Debug\net7.0\hw-02-vlad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uladzislau.Shpartou\Documents\GitHub\hw-02-vlad\obj\Debug\net7.0\hw-02-vlad.AssemblyInfoInputs.cache
+C:\Users\Uladzislau.Shpartou\Documents\GitHub\hw-02-vlad\obj\Debug\net7.0\hw-02-vlad.AssemblyInfo.cs
+C:\Users\Uladzislau.Shpartou\Documents\GitHub\hw-02-vlad\obj\Debug\net7.0\hw-02-vlad.csproj.CoreCompileInputs.cache
+C:\Users\Uladzislau.Shpartou\Documents\GitHub\hw-02-vlad\obj\Debug\net7.0\hw-02-vlad.dll
+C:\Users\Uladzislau.Shpartou\Documents\GitHub\hw-02-vlad\obj\Debug\net7.0\refint\hw-02-vlad.dll
+C:\Users\Uladzislau.Shpartou\Documents\GitHub\hw-02-vlad\obj\Debug\net7.0\hw-02-vlad.pdb
+C:\Users\Uladzislau.Shpartou\Documents\GitHub\hw-02-vlad\obj\Debug\net7.0\hw-02-vlad.genruntimeconfig.cache
+C:\Users\Uladzislau.Shpartou\Documents\GitHub\hw-02-vlad\obj\Debug\net7.0\ref\hw-02-vlad.dll
